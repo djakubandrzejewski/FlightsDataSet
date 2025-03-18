@@ -1,0 +1,14 @@
+[2024-03-18 12:00:01] INFO User logged in
+[2024-03-18 12:01:15] ERROR Database connection failed
+[2024-03-18 12:02:47] WARN Disk space low
+[2024-03-18 12:03:10] INFO User updated settings
+[2024-03-18 12:05:30] INFO User logged out
+[2024-03-18 12:06:00] ERROR Timeout occurred
+[2024-03-18 12:07:45] WARN High memory usage detected
+[2024-03-18 12:10:23] INFO User logged in
+[2024-03-18 12:12:35] ERROR Failed to load resource
+[2024-03-18 12:15:42] WARN CPU temperature high
+[2024-03-18 12:20:55] INFO User logged out
+[2024-03-18 12:25:30] ERROR Service unavailable
+[2024-03-18 12:30:10] INFO User changed password
+[2024-03-18 12:35:20] WARN Low battery warning
